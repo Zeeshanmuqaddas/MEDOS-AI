@@ -1,0 +1,6 @@
+{
+  "name": "MEDOS AI",
+  "description": "An autonomous, multi-agent Healthcare Operating System featuring ICU monitoring, clinical decision support, lab analysis, predictive risk modeling, and pharmacy intelligence within a unified real-time dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
